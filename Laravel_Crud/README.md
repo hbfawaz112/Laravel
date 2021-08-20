@@ -1,3 +1,15 @@
+# Laravel 8 Crud Operations:
+This a simple laravel 8 crud (select/insert/update/delete) application made for learning purpose
+
+# Screenshots : 
+<img src="https://raw.githubusercontent.com/hbfawaz112/Laravel/master/Laravel_Crud/s1.PNG?token=AKRXMITR4U6GGPFY4ICFAI3BFFVXA"/>
+<br>
+<img src="https://raw.githubusercontent.com/hbfawaz112/Laravel/master/Laravel_Crud/s2.PNG?token=AKRXMIT4RHTTZHV24L3WLI3BFFVZW"/>
+<br>
+<img src="https://raw.githubusercontent.com/hbfawaz112/Laravel/master/Laravel_Crud/s3.PNG?token=AKRXMIW4YOKKIKLXEKRBJ6DBFFV4A"/>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
